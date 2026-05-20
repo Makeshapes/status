@@ -95,16 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/does-not-exist.makeshapes.com.ico",
     "slug": "slack-test-delete-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "37.16%",
+    "uptimeDay": "37.16%",
+    "uptimeWeek": "37.16%",
+    "uptimeMonth": "37.16%",
+    "uptimeYear": "37.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 0
+    }
   }
 ]
