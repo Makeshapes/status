@@ -5,9 +5,9 @@ sites:
   - name: API (apiv2)
     url: https://api.makeshapes.com/v3/health
   - name: YJS (collab)
-    url: https://yjs.makeshapes.com/v3/health
+    url: https://yjs.prod.makeshapes.com/v3/health
   - name: Socket.IO (sessions)
-    url: https://socketio.makeshapes.com/health
+    url: https://socketio.prod.makeshapes.com/health
   - name: Experience (app)
     url: https://app.makeshapes.com
   - name: Creator
