@@ -13,7 +13,7 @@ sites:
   - name: Creator
     url: https://creator.makeshapes.com
   - name: SLACK TEST (delete me)
-    url: https://does-not-exist.makeshapes.com/
+    url: https://api.makeshapes.com/v3/health
 
 status-website:
   cname: status.makeshapes.com
