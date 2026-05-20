@@ -91,22 +91,22 @@
   },
   {
     "name": "SLACK TEST (delete me)",
-    "url": "https://does-not-exist.makeshapes.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/does-not-exist.makeshapes.com.ico",
+    "url": "https://api.makeshapes.com/v3/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.makeshapes.com.ico",
     "slug": "slack-test-delete-me",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 513,
+    "timeDay": 513,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2026-05-20": 22
+      "2026-05-20": 27
     }
   }
 ]
