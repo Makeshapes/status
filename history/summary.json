@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 620,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 620,
+    "time": 639,
+    "timeDay": 639,
+    "timeWeek": 639,
+    "timeMonth": 639,
+    "timeYear": 639,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 587,
-    "timeWeek": 587,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "time": 608,
+    "timeDay": 608,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 614,
+    "timeDay": 614,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 150,
-    "timeWeek": 150,
-    "timeMonth": 150,
-    "timeYear": 150,
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -82,19 +82,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
     "name": "SLACK TEST (delete me)",
-    "url": "https://api.makeshapes.com/v3/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.makeshapes.com.ico",
+    "url": "https://does-not-exist.makeshapes.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/does-not-exist.makeshapes.com.ico",
     "slug": "slack-test-delete-me",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -106,7 +106,7 @@
     "timeMonth": 513,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2026-05-20": 27
+      "2026-05-20": 34
     }
   }
 ]
