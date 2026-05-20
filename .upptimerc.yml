@@ -30,4 +30,5 @@ status-website:
 notifications:
   - type: slack
     channel: status
-    url: "$SLACK_WEBHOOK_URL"
+    icon: ":rotating_light:"
+    name: Upptime
