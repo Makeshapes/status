@@ -12,6 +12,8 @@ sites:
     url: https://app.makeshapes.com
   - name: Creator
     url: https://creator.makeshapes.com
+  - name: SLACK TEST (delete me)
+    url: https://does-not-exist.makeshapes.com/
 
 status-website:
   cname: status.makeshapes.com
