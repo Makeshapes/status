@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.makeshapes.com.ico",
     "slug": "api-apiv2",
     "status": "up",
-    "uptime": "94.39%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "94.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 644,
     "timeDay": 644,
     "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 644,
-    "dailyMinutesDown": {
-      "2026-05-21": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "YJS (collab)",
