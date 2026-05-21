@@ -14,7 +14,7 @@ sites:
   - name: Experience (app)
     url: https://app.makeshapes.com
     category: Apps
-  - name: Creator (App)
+  - name: Creator (app)
     url: https://creator.makeshapes.com
     category: Apps
 
