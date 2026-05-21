@@ -4,14 +4,19 @@ repo: status
 sites:
   - name: API (apiv2)
     url: https://api.makeshapes.com/v3/health
+    category: APIs
   - name: YJS (collab)
     url: https://yjs.prod.makeshapes.com/v3/health
+    category: APIs
   - name: Socket.IO (sessions)
     url: https://socketio.prod.makeshapes.com/health
+    category: APIs
   - name: Experience (app)
     url: https://app.makeshapes.com
-  - name: Creator
+    category: Apps
+  - name: Creator (App)
     url: https://creator.makeshapes.com
+    category: Apps
 
 status-website:
   cname: status.makeshapes.com
