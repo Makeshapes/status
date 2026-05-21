@@ -26,3 +26,57 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Makeshapes/status/master/assets/logo.svg
   favicon: https://ms.makeshapes.com/favicon.ico
   theme: light
+  js: |
+    (function() {
+      var link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
+      document.head.appendChild(link);
+    })();
+  css: |
+    :root {
+      --ms-blue: #3452bd;
+      --ms-light-blue: #71b4eb;
+      --ms-orange: #f0813c;
+      --ms-black: #030303;
+    }
+    body, .navbar, .footer, h1, h2, h3, h4, h5, h6, p, span, a, button, .button {
+      font-family: 'Inter', 'sofia-pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+    }
+    a, a:hover, .link, .navbar a {
+      color: var(--ms-blue);
+    }
+    .button, button[type="submit"], .btn-primary {
+      background-color: var(--ms-blue) !important;
+      border-color: var(--ms-blue) !important;
+      color: #fff !important;
+    }
+    .button:hover, button[type="submit"]:hover, .btn-primary:hover {
+      background-color: var(--ms-black) !important;
+      border-color: var(--ms-black) !important;
+    }
+    .status-up, .status-up *, [class*="up"] .icon {
+      color: var(--ms-blue) !important;
+    }
+    .status-down, [class*="down"] .icon {
+      color: var(--ms-orange) !important;
+    }
+    .navbar {
+      border-bottom: 1px solid #eef0f4;
+    }
+    .navbar .logo img, .logo img {
+      max-height: 32px;
+      width: auto;
+    }
+    .logo > div {
+      display: none !important;
+    }
+    .container, .card {
+      border-radius: 8px;
+    }
+
+notifications:
+  - type: slack
+    channel: status
+    icon: ":rotating_light:"
+    name: Upptime
