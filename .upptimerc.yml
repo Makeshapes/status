@@ -5,18 +5,23 @@ sites:
   - name: API (apiv2)
     url: https://api.makeshapes.com/v3/health
     category: APIs
+    icon: https://ms.makeshapes.com/favicon.ico
   - name: YJS (collab)
     url: https://yjs.prod.makeshapes.com/v3/health
     category: APIs
+    icon: https://ms.makeshapes.com/favicon.ico
   - name: Socket.IO (sessions)
     url: https://socketio.prod.makeshapes.com/health
     category: APIs
+    icon: https://ms.makeshapes.com/favicon.ico
   - name: Experience (app)
     url: https://app.makeshapes.com
     category: Apps
+    icon: https://ms.makeshapes.com/favicon.ico
   - name: Creator (app)
     url: https://creator.makeshapes.com
     category: Apps
+    icon: https://ms.makeshapes.com/favicon.ico
 
 status-website:
   cname: status.makeshapes.com
