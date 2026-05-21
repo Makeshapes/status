@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: API (apiv2)
-    url: https://api.makeshapes.com/v3/health
+    url: https://does-not-exist.makeshapes.com/
   - name: YJS (collab)
     url: https://yjs.prod.makeshapes.com/v3/health
   - name: Socket.IO (sessions)
@@ -13,7 +13,7 @@ sites:
   - name: Creator
     url: https://creator.makeshapes.com
   - name: SLACK TEST (delete me)
-    url: https://api.makeshapes.com/v3/health
+    url: https://does-not-exist.makeshapes.com/
 
 status-website:
   cname: status.makeshapes.com
