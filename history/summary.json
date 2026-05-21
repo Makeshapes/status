@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/does-not-exist.makeshapes.com.ico",
     "slug": "api-apiv2",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.25%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 645,
     "timeDay": 645,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2026-05-21": 0
+      "2026-05-21": 1
     }
   },
   {
