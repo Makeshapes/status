@@ -23,6 +23,6 @@ status-website:
   name: Makeshapes Status
   introTitle: "Makeshapes Status"
   introMessage: "Public uptime and incident status for Makeshapes services."
-  logoUrl: https://cdn.prod.website-files.com/62b4430c0c89b64eece8631c/62b5b7ec7b411927837217bf_Makeshapes.svg
-  favicon: https://cdn.prod.website-files.com/62b4430c0c89b64eece8631c/62b461cd1ef620cb5ffc9f8f_logo.svg
+  logoUrl: https://raw.githubusercontent.com/Makeshapes/status/master/assets/logo.svg
+  favicon: https://ms.makeshapes.com/favicon.ico
   theme: light
