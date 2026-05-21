@@ -1,21 +1,23 @@
 [
   {
     "name": "API (apiv2)",
-    "url": "https://api.makeshapes.com/v3/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.makeshapes.com.ico",
+    "url": "https://does-not-exist.makeshapes.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/does-not-exist.makeshapes.com.ico",
     "slug": "api-apiv2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 645,
     "timeDay": 645,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-21": 0
+    }
   },
   {
     "name": "YJS (collab)",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 624,
-    "timeWeek": 624,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "time": 621,
+    "timeDay": 621,
+    "timeWeek": 621,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 628,
-    "timeWeek": 628,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "time": 626,
+    "timeDay": 626,
+    "timeWeek": 626,
+    "timeMonth": 626,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 145,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   },
   {
@@ -82,19 +84,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 159,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   },
   {
     "name": "SLACK TEST (delete me)",
-    "url": "https://api.makeshapes.com/v3/health",
-    "icon": "https://icons.duckduckgo.com/ip3/api.makeshapes.com.ico",
+    "url": "https://does-not-exist.makeshapes.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/does-not-exist.makeshapes.com.ico",
     "slug": "slack-test-delete-me",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -106,6 +108,7 @@
     "timeMonth": 631,
     "timeYear": 631,
     "dailyMinutesDown": {
+      "2026-05-21": 0,
       "2026-05-20": 36
     }
   }
