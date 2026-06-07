@@ -4,19 +4,19 @@
     "url": "https://api.makeshapes.com/v3/health",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "api-apiv2",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 651,
-    "timeDay": 607,
-    "timeWeek": 620,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 649,
+    "timeDay": 522,
+    "timeWeek": 598,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2026-06-07": 63
+      "2026-06-07": 64
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://yjs.prod.makeshapes.com/v3/health",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "yjs-collab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 623,
-    "timeDay": 578,
-    "timeWeek": 594,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "time": 621,
+    "timeDay": 506,
+    "timeWeek": 570,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2026-06-07": 54
+      "2026-06-07": 55
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://socketio.prod.makeshapes.com/health",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "socket-io-sessions",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 615,
-    "timeDay": 556,
-    "timeWeek": 608,
-    "timeMonth": 615,
-    "timeYear": 615,
+    "time": 612,
+    "timeDay": 483,
+    "timeWeek": 590,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2026-06-07": 44
+      "2026-06-07": 45
     }
   },
   {
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 219,
-    "timeWeek": 131,
+    "timeDay": 142,
+    "timeWeek": 134,
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 200,
-    "timeWeek": 121,
+    "timeDay": 141,
+    "timeWeek": 120,
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {}
