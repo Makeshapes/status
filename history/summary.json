@@ -4,20 +4,20 @@
     "url": "https://api.makeshapes.com/v3/health",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "api-apiv2",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 653,
-    "timeDay": 745,
-    "timeWeek": 632,
-    "timeMonth": 653,
-    "timeYear": 653,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 655,
+    "timeDay": 730,
+    "timeWeek": 641,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2026-06-07": 53,
-      "2026-06-10": 3
+      "2026-06-10": 83
     }
   },
   {
