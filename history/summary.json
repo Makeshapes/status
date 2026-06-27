@@ -6,9 +6,9 @@
     "slug": "api-apiv2",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.59%",
     "time": 650,
     "timeDay": 667,
@@ -17,7 +17,8 @@
     "timeYear": 650,
     "dailyMinutesDown": {
       "2026-06-07": 53,
-      "2026-06-10": 164
+      "2026-06-10": 164,
+      "2026-06-27": 10
     }
   },
   {
@@ -25,12 +26,12 @@
     "url": "https://yjs.prod.makeshapes.com/v3/health",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "yjs-collab",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.76%",
     "time": 623,
     "timeDay": 697,
     "timeWeek": 629,
@@ -38,7 +39,8 @@
     "timeYear": 623,
     "dailyMinutesDown": {
       "2026-06-07": 49,
-      "2026-06-10": 76
+      "2026-06-10": 76,
+      "2026-06-27": 5
     }
   },
   {
@@ -46,9 +48,9 @@
     "url": "https://socketio.prod.makeshapes.com/health",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "socket-io-sessions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.79%",
@@ -59,7 +61,8 @@
     "timeYear": 614,
     "dailyMinutesDown": {
       "2026-06-07": 44,
-      "2026-06-10": 71
+      "2026-06-10": 71,
+      "2026-06-27": 0
     }
   },
   {
