@@ -5,21 +5,17 @@
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "api-apiv2",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 646,
-    "timeDay": 471,
-    "timeWeek": 640,
-    "timeMonth": 639,
-    "timeYear": 646,
-    "dailyMinutesDown": {
-      "2026-06-07": 53,
-      "2026-06-10": 164,
-      "2026-06-27": 23
-    }
+    "uptimeYear": "100.00%",
+    "time": 645,
+    "timeDay": 505,
+    "timeWeek": 628,
+    "timeMonth": 635,
+    "timeYear": 645,
+    "dailyMinutesDown": {}
   },
   {
     "name": "YJS (collab)",
@@ -27,21 +23,17 @@
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "yjs-collab",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "100.00%",
     "time": 627,
-    "timeDay": 463,
-    "timeWeek": 633,
-    "timeMonth": 638,
+    "timeDay": 535,
+    "timeWeek": 630,
+    "timeMonth": 637,
     "timeYear": 627,
-    "dailyMinutesDown": {
-      "2026-06-07": 49,
-      "2026-06-10": 76,
-      "2026-06-27": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Socket.IO (sessions)",
@@ -49,20 +41,17 @@
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "socket-io-sessions",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 623,
-    "timeDay": 452,
-    "timeWeek": 618,
-    "timeMonth": 644,
-    "timeYear": 623,
-    "dailyMinutesDown": {
-      "2026-06-07": 44,
-      "2026-06-10": 71
-    }
+    "uptimeYear": "100.00%",
+    "time": 621,
+    "timeDay": 480,
+    "timeWeek": 604,
+    "timeMonth": 639,
+    "timeYear": 621,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Experience (app)",
@@ -76,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 249,
-    "timeWeek": 427,
-    "timeMonth": 385,
+    "timeDay": 263,
+    "timeWeek": 408,
+    "timeMonth": 381,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -89,17 +78,15 @@
     "slug": "creator-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 466,
-    "timeWeek": 426,
-    "timeMonth": 375,
+    "timeDay": 375,
+    "timeWeek": 408,
+    "timeMonth": 372,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2026-08-07": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
