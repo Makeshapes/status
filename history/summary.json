@@ -84,22 +84,22 @@
   },
   {
     "name": "Creator (app)",
-    "url": "https://httpstat.us/500",
+    "url": "https://creator.makeshapes.com",
     "icon": "https://ms.makeshapes.com/favicon.ico",
     "slug": "creator-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 0,
-    "timeWeek": 420,
-    "timeMonth": 372,
-    "timeYear": 246,
+    "time": 249,
+    "timeDay": 466,
+    "timeWeek": 426,
+    "timeMonth": 375,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-08-07": 0
+      "2026-08-07": 2
     }
   }
 ]
