@@ -19,7 +19,7 @@ sites:
     category: Apps
     icon: https://ms.makeshapes.com/favicon.ico
   - name: Creator (app)
-    url: https://creator.makeshapes.com
+    url: https://httpstat.us/500
     category: Apps
     icon: https://ms.makeshapes.com/favicon.ico
 
